@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-var texto = "main";
-=======
-var texto = "Hola Mundo";
->>>>>>> feature-new-feature
+
+var texto = "Hola Mundo dejano el del branch";
